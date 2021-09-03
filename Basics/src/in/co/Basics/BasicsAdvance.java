@@ -10,9 +10,8 @@ public class BasicsAdvance {
 		System.out.println(c);
 	}catch(Exception e){
 		System.out.println(e);
-		System.out.println("ok ho gya ");
-		System.out.println("njdsbljbtdn");
-		System.out.println("vfgiuyh");
+
+		
 	}finally {
 		System.out.println("this is  end of the program ");
 	}
